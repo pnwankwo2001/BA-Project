@@ -7,6 +7,4 @@ Skills & Experience
 📊 Power Bi (Data analysis, Data Model, DAX, Power query)
 🏦 SQL (PostgreSQL, Joins, Database creation)
 📉 Tableau (I’m currently learning Tableau / Machine Learning / A.I
-
-Examples Of Work
 	
